@@ -11,5 +11,5 @@ For AI processing we are using probably a two or three Nvidia jetson nano board.
 
 
 All api endpoint must be properly commented (in English) and exported with postman, in order to let the "client side" team understand how the backend work, without the need to reed all the script.
-When a major version of the API is created upload it with {VERSION_NUMBER}---main, and contact the server admin for rollup. 
+When a major version of the API is created upload it in {VERSION_NUMBER}---main branch, and contact the server admin for rollup. 
 We are going to maintain in parallel the latest two version of the api, in order to let the "client side" team and the user, time to update the client app.
